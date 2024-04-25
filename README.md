@@ -1,5 +1,6 @@
 # Loan Calculator Web Application
 
+![loancalc](https://github.com/TuShArBhArDwA/Loan-Calculator-Web-Application/assets/116137083/5df9be44-b3b2-4bb3-96e6-1b2b8057253a)
 This is a web application developed using Angular that allows users to calculate loan payments with simple interest. It provides an intuitive user interface for inputting loan details and displays the calculated results along with a graphical representation.
 
 ## Features
